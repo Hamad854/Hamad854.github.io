@@ -1,0 +1,157 @@
+/*body{
+width: 100%;
+height: 100%;
+
+}
+*/
+
+
+
+.bgimg{
+
+background: url(../images/Phone.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 660px;
+}
+
+#mainNav{
+	    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+}
+/*#mainNav .navbar-nav li.nav-item a.nav-link {
+    color: #fff;
+
+}
+*/
+.bg-secondary{
+
+	background-color: #2c3e50 !important;
+
+}
+
+a {
+	color: #fff;
+       text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover{
+color:#ffc107;
+
+}
+
+.sethead{
+padding-top: 18rem;
+box-sizing: border-box;
+}
+.sethead h2{
+
+font-weight: 600;
+font-size: 42px;
+	}
+.btn-warning{
+background-color: #ffc107;
+border-radius: 10px;
+
+}
+
+
+hr{
+max-width: 150px;
+border-color:#ffc107;
+border-width:3px;
+
+
+}/*
+-------------------------------------------------------------------------------SERVICES------------------------------------------------------------*/
+.ourservices{
+padding: 80px 0px 60px;
+
+
+}
+.ourservices h1{
+font-weight: bold;
+
+
+}
+
+.rowsetting{
+
+margin: 50px 0px !important;
+
+
+}
+.imgsetting{
+border-radius: 50px;
+background-color:#ffc107;
+height: 100px;
+width: 100px;
+
+color: white;
+
+}
+.rowsetting p{
+padding: 15px;
+
+}
+
+.rowsetting h3{
+	padding-top:1rem;
+}
+
+.fa-wordpress {
+margin-top: 25px;
+}
+.fa-desktop{
+margin-top: 25px;
+
+}
+.fa-bullhorn
+{
+margin-top: 25px;
+}
+.Portfolio {
+height: 500px;
+margin-bottom: 120px;
+
+
+
+}
+
+
+.card{
+	width: 300px;
+	height:230px;
+
+
+}
+
+.footer{
+height: 50px;
+background-color: #2c3e50;
+color: white;
+}
+
+
+.footer h6{
+line-height:50px;
+
+}
+.fa-heart{
+color: red;
+
+}
+
+
+
+
+
+
+
+
+
+
